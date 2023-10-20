@@ -55,7 +55,7 @@
 
 17. git push -u origin develop (push code on local develop branch to github develop branch)
 
-18. git checkout master
+18. git checkout master  
 
 19. git merge develop (after changes in develop branch are complete without errors, in master branch, merge changes from develop branch)
 
